@@ -105,4 +105,4 @@ This project demonstrates:
 
 ## Files
 
-`Intro_to_AI_SAPIR_HAI.ipynb` – complete implementation, experiments, visualizations, and model evaluation.
+`Intro_to_AI_SAPIR_ZOHAR.ipynb` – complete implementation, experiments, visualizations, and model evaluation.
